@@ -2,7 +2,7 @@
 Udacity Data Science Nanodegree
 
 ### Introduction
-The project is the capstone project set up for the completion of Udacity Data Scientist Nanodegree. The reason why I chose this project is not only because I am a coffee aficionado, but also I want to have exposure to how to build up a recommendation system to distribute promotional offers to customers, which would generate sales leads for the business to better predict sales through the process. In terms of marketing analytics, recommendations of promotional offers are the biggest challenge that has a lot of potentials to grow business.
+The project is the capstone project set up for the completion of Udacity Data Scientist Nanodegree. The reason why I chose this project is not only because I am a coffee aficionado, but also I want to have exposure to how to build up a recommendation system to distribute promotional offers to customers, which would generate sales leads for the business to better predict sales through the process. In terms of marketing analytics, recommendations of promotional offers are the biggest challenge that has a lot of potentials to grow business. For more details about the project and analysis, you can also read my article posted on the Medium https://medium.com/@diguoxiongfeng/starbuck-capstone-project-udacity-data-scientist-nanodegree-6f9e428b58c0
 
 ### Built with
 - Python Pandas
