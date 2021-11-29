@@ -1,4 +1,4 @@
-# Starbuck Captone Project
+# Starbucks Captone Project
 Udacity Data Science Nanodegree
 
 ### Introduction
