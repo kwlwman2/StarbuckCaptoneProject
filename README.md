@@ -52,7 +52,7 @@ Here is the schema and explanation of each variable in the files:
 All codes and analysis works are contained in the file `Starbucks_Capstone_notebook.ipynb`
 
 
-Acknowledgements
+### Acknowledgements
 
 - Udacity for providing an amazing Data Science Nanodegree Program
 - Richard Sharp, Data Scientist at Starbucks, provides the dataset for the capstone project.
